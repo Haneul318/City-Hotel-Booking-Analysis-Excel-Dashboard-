@@ -130,7 +130,14 @@ Based on the analysis (42% overall cancellation rate, high risk from long lead t
 
 5. **Revenue Management Strategy: Overbooking Buffer**  
    - With historically high cancellations, controlled **overbooking** can recover lost revenue.  
-   - Use historical cancellation data (lead time + segment patterns) to set safe overbooking limits.  
+   - Use historical cancellation data (lead time + segment patterns) to set safe overbooking limits.
+   - 
+  
+## ⚠️ Dataset Limitations
+1. **No OCC (Occupancy) or RevPAR data** → limits ability to link cancellations directly to room revenue and profitability.  
+2. **No demographic or behavioral details** → cannot analyze cancellations by guest profile (e.g., age, loyalty status).  
+3. **Historical dataset (2015–2017)** → patterns may differ from current post-pandemic booking behavior.  
+
 
 ---
 

@@ -7,7 +7,7 @@ I focused on the **City Hotel** subset (66% of all records) because it has the m
 The goal was to **understand cancellation patterns** and provide insights to **reduce cancellations** and **maximize revenue**.  
 
 ## 📊 Dataset
-- **Source:** [Hotel bookings demand – Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)  ](https://www.kaggle.com/datasets/qucwang/hotel-bookings-analysis-dataset)
+- **Source:** [Hotel bookings demand – Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
 - **Records:** ~119k bookings (after cleaning)  
 - **Hotels:** Resort Hotel (H1), City Hotel (H2)  
 - **Fields used:**

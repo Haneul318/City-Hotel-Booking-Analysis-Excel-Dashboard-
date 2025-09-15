@@ -6,6 +6,7 @@ This project analyzes hotel booking cancellations using the **Hotel Booking Dema
 I focused on the **City Hotel** subset (66% of all records) because it has the majority of bookings.  
 The goal was to **understand cancellation patterns** and provide insights to **reduce cancellations** and **maximize revenue**.  
 
+
 ## 📊 Dataset
 - **Source:** [Hotel bookings demand – Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
 - **Records:** ~119k bookings (after cleaning)  
@@ -21,7 +22,6 @@ The goal was to **understand cancellation patterns** and provide insights to **r
   - `adr`
       
 
-All personal data was removed by dataset authors.
 
 ---
 

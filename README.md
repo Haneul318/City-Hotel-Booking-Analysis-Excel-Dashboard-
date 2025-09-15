@@ -147,7 +147,6 @@ Based on the analysis (42% overall cancellation rate, high risk from long lead t
 - **Direct & corporate guests = most reliable revenue sources.**  
 - By enforcing stricter rules and shifting booking mix, the hotel can **reduce cancellations and stabilize cash flow**.
 
-- 
 
 
 

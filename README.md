@@ -1,6 +1,6 @@
 # 🏨 City Hotel Booking Cancellation Analysis 
 
-
+ 
 ## 📌 Project Description
 This project analyzes hotel booking cancellations using the **Hotel Booking Demand Dataset** from Kaggle.  
 I focused on the **City Hotel** subset (66% of all records) because it has the majority of bookings.  

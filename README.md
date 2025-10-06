@@ -14,7 +14,7 @@ The goal was to **understand cancellation patterns** and provide insights to **r
 - **Fields used:**
   - `hotel`
   - `is_canceled` → booking canceled (1) or not (0)  
-  - `lead_time` → days between booking date and arrival  
+  - `lead_time` → days between booking date and arrival   
   - `arrival_date_year`, `arrival_date_month`  
   - `market_segment`, `distribution_channel`
   - `lead_time`

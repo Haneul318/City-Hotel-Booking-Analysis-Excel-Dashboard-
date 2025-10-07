@@ -11,7 +11,7 @@ The goal was to **understand cancellation patterns** and provide insights to **r
 - **Source:** [Hotel bookings demand – Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) 
 - **Records:** ~119k bookings (after cleaning)  
 - **Hotels:** Resort Hotel (H1), City Hotel (H2)  
-- **Fields used:**
+- **Fields used:** 
   - `hotel`
   - `is_canceled` → booking canceled (1) or not (0)  
   - `lead_time` → days between booking date and arrival   

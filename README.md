@@ -17,7 +17,7 @@ The goal was to **understand cancellation patterns** and provide insights to **r
   - `lead_time` → days between booking date and arrival   
   - `arrival_date_year`, `arrival_date_month`  
   - `market_segment`, `distribution_channel`
-  - `lead_time`
+  - `lead_time` 
   - `country`
   - `adr`
       
